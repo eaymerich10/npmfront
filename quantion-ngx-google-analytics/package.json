@@ -1,0 +1,27 @@
+{
+  "name": "quantion-ngx-google-analytics",
+  "version": "1.0.1",
+  "description": "Load Google Analytics gtag script and track user navigation, and track custom events",
+  "author": "Jordi Piella",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.quantion.com/quantion-interno/assets/quantion-ngx-google-analytics.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7"
+  },
+  "main": "bundles/quantion-ngx-google-analytics.umd.js",
+  "module": "fesm5/quantion-ngx-google-analytics.js",
+  "es2015": "fesm2015/quantion-ngx-google-analytics.js",
+  "esm5": "esm5/quantion-ngx-google-analytics.js",
+  "esm2015": "esm2015/quantion-ngx-google-analytics.js",
+  "fesm5": "fesm5/quantion-ngx-google-analytics.js",
+  "fesm2015": "fesm2015/quantion-ngx-google-analytics.js",
+  "typings": "quantion-ngx-google-analytics.d.ts",
+  "metadata": "quantion-ngx-google-analytics.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}

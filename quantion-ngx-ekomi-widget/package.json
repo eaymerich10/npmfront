@@ -1,0 +1,27 @@
+{
+  "name": "quantion-ngx-ekomi-widget",
+  "version": "1.0.1",
+  "description": "Add ekomi Widgets to angular projects. Ekomi Rank Widget, Ekomi Smart Widget or Ekomi Showroom Widget",
+  "author": "Jordi Piella",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.quantion.com/quantion-interno/assets/quantion-ngx-ekomi-widget.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7"
+  },
+  "main": "bundles/quantion-ngx-ekomi-widget.umd.js",
+  "module": "fesm5/quantion-ngx-ekomi-widget.js",
+  "es2015": "fesm2015/quantion-ngx-ekomi-widget.js",
+  "esm5": "esm5/quantion-ngx-ekomi-widget.js",
+  "esm2015": "esm2015/quantion-ngx-ekomi-widget.js",
+  "fesm5": "fesm5/quantion-ngx-ekomi-widget.js",
+  "fesm2015": "fesm2015/quantion-ngx-ekomi-widget.js",
+  "typings": "quantion-ngx-ekomi-widget.d.ts",
+  "metadata": "quantion-ngx-ekomi-widget.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}
